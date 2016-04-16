@@ -1,6 +1,6 @@
 {
   "name": "wild-peerconnection",
-  "version": "1.0.7",
+  "version": "1.0.14",
   "description": "RpcPeerConnection with wilddog",
   "main": "index.js",
   "scripts": {
