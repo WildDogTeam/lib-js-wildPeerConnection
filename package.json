@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/stackOverMind/wild-peerconnection#readme",
   "dependencies": {
-    "webrtc-adapter": "^1.0.4",
     "wildemitter": "^1.2.0"
   },
   "devDependencies": {
